@@ -11,6 +11,7 @@
 <meta name="description" content="Des cours d'informatiques, tutoriels sql, tutoriels vba Access, tutoriels bureautique, tutoriels javascript, html, php du fun et de la programmation" />
 <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
 <title>L'informatique simple | nbformation</title>
+<!-- j'ai inclut les styles dans la page en attendant de faire un .css -->
 <style>
 html, body{
    margin: 0px;
